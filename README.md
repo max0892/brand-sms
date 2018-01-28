@@ -1,2 +1,1 @@
-# brand-sms
-TEST CREATE DEMO
+#Huong dan Git co ban
